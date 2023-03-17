@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do carlos-br12😁
-
+<p>estudando HTML , CSS e javascript no momento</p>
  <div>
    <a href="https://github.com/carlos-br12">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-br12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
